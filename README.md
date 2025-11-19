@@ -1,2 +1,2 @@
-# JerCore-TrinityCore-Scripts
+# JerCore TrinityCore Scripts
 Various scripts for TrinityCore
