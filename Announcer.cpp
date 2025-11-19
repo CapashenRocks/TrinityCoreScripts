@@ -2,6 +2,7 @@
 // Should be able to be modified for any xpac up to 11.2.5 with some edits
 // Ported from JerCore's Lua Script
 // Updated with on/off toggle in worldserver config
+// Worldserver: SpyAnnouncer.Enable = 1 or SpyAnnouncer.Enable = 0
 
 #include "Config.h"  
 #include "DBCStores.h"
@@ -183,4 +184,5 @@ class player_login_logout_spy : public PlayerScript
 };
 
 void AddSC_Announcer() { new player_login_logout_spy(); }
+
 
