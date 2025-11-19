@@ -1,5 +1,5 @@
 # JerCore TrinityCore Scripts
-Various scripts writeen for TrinityCore. These will likely be for various version, but usually are modifiable to work with many versions (i.e. Cata--> Wrath)
+Various scripts written for TrinityCore. These will likely be for various version, but usually are modifiable to work with many versions (i.e. Cata--> Wrath)
   * The icon will indicate what the base version was coded and tested for.
     * Note- I do not code for wrath or cata classic. If it is Wrath it is 3.3.5 and Cata is 4.3.4
 
