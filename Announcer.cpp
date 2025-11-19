@@ -1,4 +1,5 @@
 // Player Login & Logout Announcement Script (Cata 4.3.4)
+// Should be able to be modified for any xpac up to 11.2.5 with some edits
 // Ported from JerCore's Lua Script
 // TODO- Add on/off in worldserver config
 
@@ -147,4 +148,5 @@ void AddSC_Announcer()
 {
     new player_login_logout_spy();
 }
+
 
