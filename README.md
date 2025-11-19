@@ -6,3 +6,4 @@ Various scripts writeen for TrinityCore. These will likely be for various versio
 ##
 * Announcer <img src="https://github.com/CapashenRocks/Lua-Scripts/blob/main/Misc/Art/Cata.png">
   + Whenever player logs in or out a "spy" announcement is made indicating player name, class, race, faction, and login location.
+  + Announcer can be toggled on or off in the worldserver.conf
